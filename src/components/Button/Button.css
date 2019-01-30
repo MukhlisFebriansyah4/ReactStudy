@@ -1,0 +1,17 @@
+.btn-gmail{
+    height: 36px;
+    min-width: 54px;
+    padding: 0 16px;
+    color: #757575;
+    font-weight: 700;
+    background-color: #f2f2f2!important;
+    border: 1px solid #f2f2f2!important;
+}
+.btn-gmail:hover{
+    height: 36px;
+    min-width: 54px;
+    padding: 0 16px;
+    color: black;
+    background-color: #f2f2f2!important;
+    border: 1px solid black!important;
+}
